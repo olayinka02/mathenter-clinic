@@ -1,0 +1,12 @@
+.w3-container{background-image: url(/mathenter-clinic/image/bla5.jpg);background-attachment: fixed; background-position:center;
+    background-size: cover;background-clip: inherit;  height:100vh ;width: 100%;opacity:0.91 ;}
+.container{background-color:black;background-attachment: fixed;height:300px;width:250px;border-radius: 10px;opacity:0.83;
+    box-shadow: 3px 3px 4px ; margin-left: 60px;margin-top: 210px;}
+label{color: cornsilk;padding-left:27px;opacity:1;}
+input{padding-left:13px;border-radius: 6px;opacity:1;margin-left:18px;}
+button{margin-left:90px;border-radius:8px;opacity:1;}
+.formcheck{padding-left: 0px;}
+
+h2{float:right;font-size: 43px;color:black;font-style: italic;opacity:1;text-shadow:1px -1px 3px cornflowerblue;}
+.hmm{float:right;font-size: 20px;font-weight:bold;color:black;font-style: italic;opacity:1;text-shadow:1px -1px 3px rgb(11, 243, 166);margin-right:-420px;padding-top:40px;}
+
