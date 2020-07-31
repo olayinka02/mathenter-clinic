@@ -24,7 +24,7 @@ function sum(){
       document.myForm.password2.focus();
      return false;
      }else{
-       window.location="https://olayinka02.github.io/bible-quiz/";
+       window.location="https://olayinka02.github.io/math-clinic/";
      }
      
   
